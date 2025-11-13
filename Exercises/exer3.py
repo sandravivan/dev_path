@@ -1,4 +1,4 @@
-hour = int (input(" Enter the current hour (0-23: )"))
+hour = int (input(" Enter the current hour (0-23:)"))
 
 if hour < 12:
     print("Good morrning")
